@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Unbounded:wght@200..900&display=swap');
+
+
+body {
+    background-color: #fff4ed;
+}
+
+h1 {
+    font-family: "Unbounded", sans-serif;
+}
+
+h2 {
+    font-family: "Unbounded", sans-serif;
+    font-size: medium;
+}
+
+h3 {
+    font-family: "Unbounded", sans-serif;
+    font-size: small;
+}
+
+p {
+    font-family: "Albert Sans", sans-serif;
+}
+
+.hero {
+    background-image: url("../images/Background1.png");
+    background-size: cover;
+    padding: 150px 0px;
+}
+
+.homeDesc {
+    background-color: #fde9db;
+    padding: 150px 0px;
+}
+
+.homeDesc h1 {
+    color: #fb8d52;
+    font-size: large;
+}
+
+.homeDesc p {
+    font-size: medium;
+}
+
+.applyCards h1 {
+    font-size: large;
+}
+
+.aboutCards {
+    border: none !important;
+    margin-bottom: 50px;
+}
+
+.cardLine {
+    border: 2px solid black;
+}
+
+.nav-link {
+    font-family: "Albert Sans", sans-serif;
+}
+
+.btn {
+    font-family: "Albert Sans", sans-serif !important;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.applyJumbo {
+    background-color: #fde9db;
+    padding: 50px 0px;;
+}
+
+.applyJumbo h1 {
+    color: #fb8d52;
+}
+
+.card h1 {
+    color: #428aa5;
+}
+
+.courseDetails {
+    font-size: small;
+}
+
+.courseTitle{
+    color:#fb8d52;
+}
+
+.jobOpportunities {
+    color: #428aa5;
+    padding: 50px 0px;;
+}
+
+.contactForm {
+    /* background-color: #91c7db; */
+    color: #fff4ed;
+    background-image: url("../images/contactBackground.jpg");
+    background-size: cover;
+    padding: 0px 20px 20px 20px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.courseCards {
+    background-color: #fde9db;
+    background-size: cover;
+    padding-top: 50px;
+    margin-top: 80px;
+}
